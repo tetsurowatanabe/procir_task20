@@ -1,3 +1,6 @@
+<?php
+$msg = '初めてのGitHub';
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -5,5 +8,8 @@
 <title>課題20 ファイル1</title>
 </head>
 <body>
+<?php
+echo $msg;
+?>
 </body>
 </html>
